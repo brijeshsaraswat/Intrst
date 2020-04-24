@@ -1,0 +1,6 @@
+/backend_logic/node_modules
+/curd_operations/node_modules
+npm-debug.log
+.DS_Store
+/*.env
+/backend_logic/helper

@@ -1,0 +1,54 @@
+
+*,
+*::before,
+*::after {
+	margin: 0;
+	padding: 0;
+	box-sizing: inherit;
+	
+
+	outline:0 none !important;
+} 
+
+html {
+	box-sizing: border-box;
+	font-size: 62.5%; /* 10px / 16px -> 62.5% -> 1rem -> 10px */
+} 
+
+html,
+body,
+#react_root {
+	position: relative;
+		
+	font-family: 'Comic Neue', cursive;;
+	-moz-osx-font-smoothing: grayscale;
+	-webkit-font-smoothing: antialiased;
+	
+	width: 100vw;
+	height: 100vh;
+	
+	top: 0px;
+	left: 0px;
+	
+	overflow: hidden;
+}
+
+a,
+a:visited {
+	color:#557880;
+	text-decoration: none;
+}
+
+svg {
+	color: #5d858d;
+}
+
+.svg-hover:hover {
+	cursor: pointer;
+} 
+
+.flex-row-filler {
+	flex-grow: 1;
+}
+
+/*# sourceMappingURL=/master.e2f719f2.css.map */
