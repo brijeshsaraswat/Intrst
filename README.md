@@ -19,3 +19,21 @@ Link to the deployed instance at: [https://intrest.herokuapp.com/](https://intre
 ```npm run start```<br>
 
 4. Open ```http://127.0.0.1:1234/``` or ```http://localhost:1234/``` in your web browser.<br>
+
+
+### ScreenShots:
+
+##### Login Page:<br>
+![Login Page](https://github.com/brijeshsaraswat/Assets/blob/master/Intrest/Login.png)
+
+
+##### Registration Page:<br>
+![Registration](https://github.com/brijeshsaraswat/Assets/blob/master/Intrest/Registration.png)
+
+
+##### Homepage:<br>
+![Homepage](https://github.com/brijeshsaraswat/Assets/blob/master/Intrest/Homepage.png)
+
+
+##### Post Creation:<br>
+![Post](https://github.com/brijeshsaraswat/Assets/blob/master/Intrest/Createpost.png)
